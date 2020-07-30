@@ -1,10 +1,10 @@
 <template>
-
+    
 </template>
 
 <script>
     export default {
-        name: "newroute"
+        name: "1111"
     }
 </script>
 
